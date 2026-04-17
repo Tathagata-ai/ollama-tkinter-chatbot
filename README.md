@@ -39,7 +39,7 @@ python app.py
 
 ## 🎥 Demo
 
-demo.png
+demo.gif
 
 ## 📌 Future Improvements
 
