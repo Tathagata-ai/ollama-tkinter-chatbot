@@ -39,7 +39,7 @@ python app.py
 
 ## 🎥 Demo
 
-demo.gif
+![Demo](demo.gif)
 
 ## 📌 Future Improvements
 
